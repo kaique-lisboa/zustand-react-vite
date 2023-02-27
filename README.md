@@ -2,6 +2,8 @@
 
 Example React application that uses Zustand as State management solution
 
+# [Post de blog explicando como funciona o código e a biblioteca Zustand](https://blog.hypeit.tech/posts/zustand/)
+
 ## Technologies
 
 - React
@@ -17,4 +19,4 @@ npm run dev
 ```
 ## Demo
 
-![](./public/app-demo.gif)
+![](./public/app-demo-new.gif)
